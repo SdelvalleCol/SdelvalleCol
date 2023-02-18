@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **colombi12@hotmail.com**
 
-- 📄 Know about my experiences [graduated from the Mision TIC 2022 program](graduated from the Mision TIC 2022 program)
+- 📄 Know about my experiences graduated from the Mision TIC 2022 program
 
 - ⚡ Fun fact **every day creating more bugs**
 
