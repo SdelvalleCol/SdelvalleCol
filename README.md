@@ -2,7 +2,7 @@
 <h3 align="center">A junior developer in web, mobile, and cybersecurity possesses extensive knowledge of programming, networking, and encryption.</h3>
 
 - 🔭 I am currently a systems and computer engineer graduated from the Universidad Pontificia Bolivariana
-- 
+  
 - 👯 I’m looking to collaborate on **development houses**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SdelvalleCol](https://github.com/SdelvalleCol)
