@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Santiago</h1>
 <h3 align="center">A junior developer in web, mobile, and cybersecurity possesses extensive knowledge of programming, networking, and encryption.</h3>
 
-- 🔭 I am currently studying at **Universidad Pontificia Bolivariana**
-
-- 🌱 I’m currently learning **mobile development**
-
+- 🔭 I am currently a systems and computer engineer graduated from the Universidad Pontificia Bolivariana
+- 
 - 👯 I’m looking to collaborate on **development houses**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SdelvalleCol](https://github.com/SdelvalleCol)
 
 - 💬 Ask me about **Nodejs,SQL,Mongo,CSS...etc**
 
-- 📫 How to reach me **colombi12@hotmail.com**
-
-- 📄 Know about my experiences graduated from the Mision TIC 2022 program
+- 📫 How to reach me **santiago.delvallepinilla12@gmail.com**
 
 - ⚡ Fun fact **every day creating more bugs**
 
